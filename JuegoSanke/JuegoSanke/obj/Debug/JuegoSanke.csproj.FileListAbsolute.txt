@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\bin\Debug\JuegoSanke.exe.config
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\bin\Debug\JuegoSanke.exe
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\bin\Debug\JuegoSanke.pdb
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.Form1.resources
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.exe
+C:\Users\Hector Peña\source\repos\JuegoSanke\JuegoSanke\obj\Debug\JuegoSanke.pdb
